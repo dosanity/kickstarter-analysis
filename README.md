@@ -10,7 +10,7 @@ Louise is an up and coming playright who wants to kickstart a crowd funding camp
 ### Analysis of Outcomes Based on Launch Date
 In our first analysis, we used Microsoft Excel to examine data from a public crowd funding website with a sample size of 4114 different campaigns. From this data, we generated a pivot table to separate campaigns that were successful, that failed, and those that were canceled. Additionally, we filtered out the data to only display theatrical crowdfunding campaigns since we are comparing plays with their launch dates. Using the resulting data, we constructed a line chart to visualize theater outcomes based on their launch dates.
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/29410712/179177882-df22ce7c-863e-4593-9428-ad4ad35e9af4.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/29410712/179178793-df67774f-4f05-4dff-a276-0892fd2a0b83.png)
 
 ### Analysis of Outcomes Based on Goals
 In our second analysis, we also used Microsoft Excel to examine data from a public crowd funding website with a sample size of 4114 different campaigns. From this data, we separated the funding goal amounts into 12 different categories. Moreover, we calculated the percentages of successful, failed, and canceled theatrical plays based on these distinct intervals of funding goal amounts. Using the percentages of the outcomes, we constructed a line chart to visualize the different outcomes based on funding goal amounts for theatrical plays.
